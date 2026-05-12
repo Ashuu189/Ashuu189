@@ -32,8 +32,7 @@ gla university — b.tech cse (2020 → 2024)
 
 links
 
-[landing] · [website] · [email]  
-[github] · [linkedin] · [twitter] 
+[website] · [email] · [github] · [linkedin] · [twitter] 
 
 </details>
 

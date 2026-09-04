@@ -20,6 +20,7 @@ experience
 ---
 
 Skills
+
 advanced aython · advanced ms excel · power bi · numpy · pandas · matplotlib · seaborn · GenAI
 js · react · node  · Java · MongoDb · OAuth · Google Firebase · Ai tools[chatGpt · grok · gemini] · MySQL
 
